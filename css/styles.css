@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  font-style: bold;
+}
+.important{
+  color: red;
+  font-style: bold;
+}
+.column{
+  width: 200px;
+  float: left;
+}
+.column h2{
+  color: darkblue;
+  font-style: bold
+}
+.central-text{
+  text-align: center;
+}
