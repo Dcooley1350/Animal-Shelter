@@ -1,19 +1,39 @@
-h1{
-  text-align: center;
-  font-style: bold;
+body{
+  background: lightgoldenrodyellow
 }
 .important{
   color: red;
   font-style: bold;
 }
 .column{
-  width: 200px;
+  width: 20%;
   float: left;
 }
+.column img{
+  text-align: center;
+  width: 200px;
+}
 .column h2{
+  text-align: center;
   color: darkblue;
   font-style: bold
 }
+.column p{
+  margin: 2px;
+}
 .central-text{
   text-align: center;
+}
+.central-text h1{
+  text-align: center;
+  font-style: bold;
+  font-size: 700;
+}
+.central-text ul{
+  color: red;
+  text-align: left
+}
+.central-text h2{
+  margin-top: 6px;
+  text-align: center
 }
